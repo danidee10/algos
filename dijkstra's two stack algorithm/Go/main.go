@@ -1,4 +1,4 @@
-/* Implementation of djisktra's two stack algorithm */
+/* Implementation of dijkstra's two stack algorithm */
 
 package main
 
